@@ -1,0 +1,28 @@
+/*!
+ * Start Bootstrap - Busines Frontpage (https://startbootstrap.com/template-overviews/business-frontpage)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+
+body {
+  font-family: 'Times New Roman', Times, serif !important;
+}
+
+body {
+  padding-top: 56px;
+}
+
+header.arup-green.bg-primary.py-5.mb-5 {
+  background-color: #4CA876 !important;
+}
+
+.arup-green.btn-primary {
+  background-color: #4CA876;
+  border-color: #4CA876;
+}
+
+.logo.arup-white {
+  -webkit-filter: grayscale(1) invert(1);
+    filter: grayscale(1) invert(1);
+}
+
